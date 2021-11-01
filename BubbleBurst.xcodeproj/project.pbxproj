@@ -14,6 +14,9 @@
 		2E29E0D6272F33B5001D1BC3 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E29E0D5272F33B5001D1BC3 /* GameViewController.swift */; };
 		2E29E0D9272F33B5001D1BC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E29E0D7272F33B5001D1BC3 /* Main.storyboard */; };
 		2E29E0DB272F33B7001D1BC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2E29E0DA272F33B7001D1BC3 /* Assets.xcassets */; };
+		2E29E0E3272F4985001D1BC3 /* shoot.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2E29E0E2272F4985001D1BC3 /* shoot.wav */; };
+		2E29E0E5272FA9FD001D1BC3 /* explosion.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2E29E0E4272FA9FD001D1BC3 /* explosion.wav */; };
+		2E29E0E7272FACBF001D1BC3 /* point.wav in Resources */ = {isa = PBXBuildFile; fileRef = 2E29E0E6272FACBF001D1BC3 /* point.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +29,9 @@
 		2E29E0D8272F33B5001D1BC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2E29E0DA272F33B7001D1BC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2E29E0DC272F33B7001D1BC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E29E0E2272F4985001D1BC3 /* shoot.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = shoot.wav; sourceTree = "<group>"; };
+		2E29E0E4272FA9FD001D1BC3 /* explosion.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = explosion.wav; sourceTree = "<group>"; };
+		2E29E0E6272FACBF001D1BC3 /* point.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = point.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +68,9 @@
 				2E29E0CF272F33B5001D1BC3 /* GameScene.sks */,
 				2E29E0D1272F33B5001D1BC3 /* Actions.sks */,
 				2E29E0D3272F33B5001D1BC3 /* GameScene.swift */,
+				2E29E0E6272FACBF001D1BC3 /* point.wav */,
+				2E29E0E2272F4985001D1BC3 /* shoot.wav */,
+				2E29E0E4272FA9FD001D1BC3 /* explosion.wav */,
 				2E29E0D5272F33B5001D1BC3 /* GameViewController.swift */,
 				2E29E0D7272F33B5001D1BC3 /* Main.storyboard */,
 				2E29E0DA272F33B7001D1BC3 /* Assets.xcassets */,
@@ -127,9 +136,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E29E0E7272FACBF001D1BC3 /* point.wav in Resources */,
+				2E29E0E5272FA9FD001D1BC3 /* explosion.wav in Resources */,
 				2E29E0D9272F33B5001D1BC3 /* Main.storyboard in Resources */,
 				2E29E0D0272F33B5001D1BC3 /* GameScene.sks in Resources */,
 				2E29E0DB272F33B7001D1BC3 /* Assets.xcassets in Resources */,
+				2E29E0E3272F4985001D1BC3 /* shoot.wav in Resources */,
 				2E29E0D2272F33B5001D1BC3 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
