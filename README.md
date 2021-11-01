@@ -7,9 +7,9 @@ Here are the rules:
 
 The player controlls the bat-🦇 by tapping to fire, or dragging to move left and right. There are random generated ghost-👻. You need to avoid those ghosts. If the ghosts catchs the bat, it will cost a life.
 
-3 lives in total are provided at the beginning of the game.
+You will have 3 lives in total at the beginning of the game.
 
-The player can gain health points by catching pumpkins🎃. Additional lives will be granted with the enough health points. 
+Additional lives are granted via health points. The health points can be gained by catching pumpkins🎃. 
 
 <img src="sample2.png" alt="drawing" width="200"/>
 <img src="sample1.png" alt="drawing" width="200"/>
