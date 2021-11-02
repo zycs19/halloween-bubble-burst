@@ -1,5 +1,5 @@
 # halloween-bubble-burst
-This is a iOS game for Halloween ghost haunting!
+This is an iOS game for Halloween ghost haunting!
 
 The player needs to fire the ghost and catch as much pumpkins as possible.
 
